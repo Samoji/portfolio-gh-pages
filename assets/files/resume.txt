@@ -1,0 +1,5 @@
+Hello, my name is Alessio Scannapieco and I'm a software engineer.
+
+I've been always fascinating on "How things works" and, I can't sleep if not able to give an explanation to that.
+
+I decided to create this little side project to showcase a bit my knowledge and, of course, host a resume in a different way.
